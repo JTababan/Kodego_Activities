@@ -183,8 +183,8 @@ section{
   width: 100%;
   height: auto;
   display: block;
-  border: 1px solid #ccc; /* Add a border around images (optional) */
-  border-radius: 5px; /* Add rounded corners to images (optional) */
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
 }
 .image-container h2{
   color: aqua;
@@ -264,7 +264,7 @@ section{
   background-color: #45a049;
 }
 
-/* Add responsiveness for smaller screens */
+
 @media (max-width: 768px) {
   .contact-heading {
     font-size: 28px;
